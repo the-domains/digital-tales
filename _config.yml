@@ -1,0 +1,28 @@
+name: Digital Tales
+favicon: null
+layout_spectrum: 0.6980559108778834
+typography_spectrum: 0.999070038786158
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.40995881450362504
+  lightness: 0.8155400706455112
+  saturation: 0.23586062109097838
+  rhythmicContrast: 0.6918713643681258
+purpose: []
