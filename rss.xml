@@ -4,7 +4,7 @@
         <description><![CDATA[Digital Tales - Audiobook Production & Marketing]]></description>
         <link>https://thegrid.ai/digital-tales/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 05:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 05:30:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/digital-tales/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to Digital Tales]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/digital-tales/welcome-to-digital-tales/index.html</link>
             <guid isPermaLink="false">3665d3b9-fdcd-4a7b-8484-3278265942af</guid>
             <pubDate>Thu, 24 Mar 2016 05:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our Services]]></title>
-            <description><![CDATA[<article><h1>Our Services</h1><h2>Narration</h2><p>We have relationships with a range of talented male and female narrators who perform both fiction and non-fiction. When possible, we like to record in our Austin, TX studio to capture clean, high quality signals and to free the actors from the technical work so they can focus on delivering their best, nuanced performances. But we are Digital Tales, and that means we can also hire the best performers from around the world who have their own high quality home recording capabilities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2bd1cc89db81fd4c0cc9e7c88e97116e6a08516.jpg"></article>]]></description>
-            <link>https://thegrid.ai/digital-tales/our-services/index.html</link>
-            <guid isPermaLink="false">51753902-ce33-4dea-aa1d-8bb5f01ae72a</guid>
-            <pubDate>Thu, 24 Mar 2016 05:15:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
