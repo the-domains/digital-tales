@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Stories transport us to new worlds and help us see through the eyes of others. They inspire us to grow, to reach for a deeper understanding of how we fit into the fabric of the past, present, and future universe.'
-datePublished: '2016-03-24T00:36:32.363Z'
-dateModified: '2016-03-24T00:36:27.157Z'
+datePublished: '2016-03-24T00:37:11.775Z'
+dateModified: '2016-03-24T00:37:09.219Z'
 title: Welcome to Digital Tales
 author: []
 sourcePath: _posts/2016-03-24-welcome-to-digital-tales.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Welcome to Digital Tales
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2721f6b-9ae4-4cce-845b-c3f237f9d759.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/450930f4ab3306840c35eb71bd43153283ae93a5.jpg)
 
 Stories transport us to new worlds and help us see through the eyes of others. They inspire us to grow, to reach for a deeper understanding of how we fit into the fabric of the past, present, and future universe.
 
