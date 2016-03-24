@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Digital Tales]]></title>
         <description><![CDATA[Digital Tales]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/digital-tales/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 00:07:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 00:08:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/digital-tales/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our Services]]></title>
+            <description><![CDATA[<article><h1>Our Services</h1><h2>Narration</h2><p>We have relationships with a range of talented male and female narrators who perform both fiction and non-fiction. When possible, we like to record in our Austin, TX studio to capture clean, high quality signals and to free the actors from the technical work so they can focus on delivering their best, nuanced performances. But we are Digital Tales, and that means we can also hire the best performers from around the world who have their own high quality home recording capabilities.</p></article>]]></description>
+            <link>https://thegrid.ai/digital-tales/our-services/index.html</link>
+            <guid isPermaLink="false">51753902-ce33-4dea-aa1d-8bb5f01ae72a</guid>
+            <pubDate>Thu, 24 Mar 2016 00:08:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome to Digital Tales]]></title>
             <description><![CDATA[<article><h1>Welcome to Digital Tales</h1><p>Stories transport us to new worlds and help us see through the eyes of others. They inspire us to grow, to reach for a deeper understanding of how we fit into the fabric of the past, present, and future universe.</p></article>]]></description>
-            <link>undefinedwelcome-to-digital-tales/index.html</link>
+            <link>https://thegrid.ai/digital-tales/welcome-to-digital-tales/index.html</link>
             <guid isPermaLink="false">3665d3b9-fdcd-4a7b-8484-3278265942af</guid>
             <pubDate>Thu, 24 Mar 2016 00:07:18 GMT</pubDate>
         </item>
