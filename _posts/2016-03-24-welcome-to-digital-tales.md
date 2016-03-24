@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'Stories transport us to new worlds and help us see through the eyes of others. They inspire us to grow, to reach for a deeper understanding of how we fit into the fabric of the past, present, and future universe.'
-datePublished: '2016-03-24T05:03:18.962Z'
-dateModified: '2016-03-24T05:03:13.380Z'
+datePublished: '2016-03-24T05:05:05.329Z'
+dateModified: '2016-03-24T05:04:37.607Z'
 title: Welcome to Digital Tales
 author: []
 sourcePath: _posts/2016-03-24-welcome-to-digital-tales.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: welcome-to-digital-tales/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Welcome to Digital Tales
