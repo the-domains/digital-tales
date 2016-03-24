@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: '“Wonderful job. I liked the way you got enough of RFK’s voice to be recognizable, but not over the top. The real challenge, however, was the back-and-forth between LBJ and RFK, and you did an outstanding job.”'
-datePublished: '2016-03-24T00:41:32.634Z'
-dateModified: '2016-03-24T00:41:28.326Z'
+datePublished: '2016-03-24T04:21:41.825Z'
+dateModified: '2016-03-24T04:21:41.384Z'
 title: Testimonials
 author: []
 sourcePath: _posts/2016-03-24-testimonials.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: testimonials/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Testimonials
