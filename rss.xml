@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Digital Tales Audiobook Production and eBook Publishing]]></title>
-        <description><![CDATA[Digital Tales Audiobook Production and eBook Publishing]]></description>
+        <title><![CDATA[Digital Tales Audiobook Production & Marketing]]></title>
+        <description><![CDATA[Digital Tales Audiobook Production & Marketing]]></description>
         <link>https://thegrid.ai/digital-tales/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 00:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 00:37:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/digital-tales/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Contact]]></title>
             <description><![CDATA[<article><h1>Contact</h1><p>Digital Tales</p></article>]]></description>
             <link>https://thegrid.ai/digital-tales/contact/index.html</link>
             <guid isPermaLink="false">f470eba6-d9f6-4c74-afea-6505e9235639</guid>
-            <pubDate>Thu, 24 Mar 2016 00:19:07 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 00:23:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Testimonials]]></title>
             <description><![CDATA[<article><h1>Testimonials</h1><h2>Jane Kennedy - WMG Publishing director of audio - Kristine Kathryn Rusch's The Enemy Within</h2><p>“Wonderful job. I liked the way you got enough of RFK’s voice to be recognizable, but not over the top. The real challenge, however, was the back-and-forth between LBJ and RFK, and you did an outstanding job.”</p></article>]]></description>
             <link>https://thegrid.ai/digital-tales/testimonials/index.html</link>
             <guid isPermaLink="false">ac1a4884-92ef-4957-95ec-99fcf89c5b8c</guid>
-            <pubDate>Thu, 24 Mar 2016 00:08:57 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 00:23:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sample Portfolio]]></title>
@@ -46,7 +46,7 @@
             <description><![CDATA[<article><h1>Welcome to Digital Tales</h1><p>Stories transport us to new worlds and help us see through the eyes of others. They inspire us to grow, to reach for a deeper understanding of how we fit into the fabric of the past, present, and future universe.</p></article>]]></description>
             <link>https://thegrid.ai/digital-tales/welcome-to-digital-tales/index.html</link>
             <guid isPermaLink="false">3665d3b9-fdcd-4a7b-8484-3278265942af</guid>
-            <pubDate>Thu, 24 Mar 2016 00:22:39 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 00:36:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
