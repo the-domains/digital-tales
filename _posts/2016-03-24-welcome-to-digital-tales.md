@@ -5,26 +5,25 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: 'Audiobook Production, independent book publishing, marketing for authors'
-datePublished: '2016-03-24T00:22:39.021Z'
-dateModified: '2016-03-24T00:22:36.776Z'
+description: 'Stories transport us to new worlds and help us see through the eyes of others. They inspire us to grow, to reach for a deeper understanding of how we fit into the fabric of the past, present, and future universe.'
+datePublished: '2016-03-24T00:36:32.363Z'
+dateModified: '2016-03-24T00:36:27.157Z'
 title: Welcome to Digital Tales
 author: []
+sourcePath: _posts/2016-03-24-welcome-to-digital-tales.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-24-welcome-to-digital-tales.md
-published: true
 url: welcome-to-digital-tales/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2721f6b-9ae4-4cce-845b-c3f237f9d759.jpg)
-
 # Welcome to Digital Tales
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2721f6b-9ae4-4cce-845b-c3f237f9d759.jpg)
 
 Stories transport us to new worlds and help us see through the eyes of others. They inspire us to grow, to reach for a deeper understanding of how we fit into the fabric of the past, present, and future universe.
 
