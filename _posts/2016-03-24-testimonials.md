@@ -6,23 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: '“Wonderful job. I liked the way you got enough of RFK’s voice to be recognizable, but not over the top. The real challenge, however, was the back-and-forth between LBJ and RFK, and you did an outstanding job.”'
-datePublished: '2016-03-24T00:23:15.842Z'
-dateModified: '2016-03-24T00:23:10.821Z'
+datePublished: '2016-03-24T00:41:32.634Z'
+dateModified: '2016-03-24T00:41:28.326Z'
 title: Testimonials
 author: []
+sourcePath: _posts/2016-03-24-testimonials.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-24-testimonials.md
-published: true
 url: testimonials/index.html
 _type: Article
 
 ---
 # Testimonials
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8432f9232d093573feadbed874a0635b7cc8ec81.jpg)
 
 ### [Jane Kennedy][0] - WMG Publishing director of audio - Kristine Kathryn Rusch's _The Enemy Within_
 
@@ -41,7 +42,6 @@ When you combine that with the fact that Jason has his own professional recordin
 ### [Eli Constant][3] - Author of _The DRAG.N_
 
 "I love your 'Gracie' and 'Andy' voices! Spot on. Big thumbs up. You're very good at voice differentiation. Charles is just as I imagined him in my head. Thank you for that!"
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d30de516-0dcf-4f16-ab87-11d8cf6f7207.jpg)
 
 [0]: http://www.audible.com/pd/Mysteries-Thrillers/The-Enemy-Within-Audiobook/B00S8QOTVY/ref=a_search_c4_1_5_srTtl?qid=1425876704&sr=1-5 "The Enemy Within on Audible.com"
 [1]: http://www.warrentessler.com/ "Warren Tessler Portfolio"
