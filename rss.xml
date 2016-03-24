@@ -4,8 +4,15 @@
         <description><![CDATA[Digital Tales]]></description>
         <link>https://thegrid.ai/digital-tales/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 00:08:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 00:10:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/digital-tales/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>Digital Tales</p></article>]]></description>
+            <link>https://thegrid.ai/digital-tales/contact/index.html</link>
+            <guid isPermaLink="false">f470eba6-d9f6-4c74-afea-6505e9235639</guid>
+            <pubDate>Thu, 24 Mar 2016 00:09:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Testimonials]]></title>
             <description><![CDATA[<article><h1>Testimonials</h1><h2>Jane Kennedy - WMG Publishing director of audio - Kristine Kathryn Rusch's The Enemy Within</h2><p>“Wonderful job. I liked the way you got enough of RFK’s voice to be recognizable, but not over the top. The real challenge, however, was the back-and-forth between LBJ and RFK, and you did an outstanding job.”</p></article>]]></description>
