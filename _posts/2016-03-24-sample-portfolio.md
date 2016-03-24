@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "We produced\_Finding the Wolf\_and three other books in the Dragon Hoard fantasy series as subcontractor for RedPlanet Audiobooks. The works called for many characters with accents from a wide range of European countries."
-datePublished: '2016-03-24T00:40:51.636Z'
-dateModified: '2016-03-24T00:40:32.623Z'
+datePublished: '2016-03-24T00:41:56.239Z'
+dateModified: '2016-03-24T00:41:53.751Z'
 title: Sample Portfolio
 author: []
 sourcePath: _posts/2016-03-24-sample-portfolio.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Sample Portfolio
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/56429e85cb4172d7b55d1f78361ea725f6bac084.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/99fc6da0caeb3125ed737d6902d62b8a646e9bdd.jpg)
 
 ### Fantasy
 
