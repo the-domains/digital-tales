@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "We produced\_Finding the Wolf\_and three other books in the Dragon Hoard fantasy series as subcontractor for RedPlanet Audiobooks. The works called for many characters with accents from a wide range of European countries."
-datePublished: '2016-03-24T04:48:55.055Z'
-dateModified: '2016-03-24T04:48:40.402Z'
+datePublished: '2016-03-24T04:49:35.916Z'
+dateModified: '2016-03-24T04:49:30.751Z'
 title: Sample Portfolio
 author: []
 sourcePath: _posts/2016-03-24-sample-portfolio.md
@@ -34,12 +34,10 @@ We produced _Finding the Wolf _and three other books in the Dragon Hoard fantasy
 ### Science Fiction
 
 We've contracted to produce audiobooks for Mike Lee's _StarFire _and other books in the Vince Lombard series. These hard edged, military science fiction action tales are delighting readers. We plan on expanding that enjoyment to listeners.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/125a24f1-4f2a-4cd5-b7d1-2449b7d1a374.jpg)
 
 [Listen to a sample][1]
 
 Eli Constant's latest science fiction series begins with _DRAG.N_. Ms. Constant's series takes a hard look at how endemic social and political issues of today might create larger problems in the future.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e58dc8a-4a86-4e89-862c-93aed4338b9c.jpg)
 
 [Listen to a sample][2]
 
