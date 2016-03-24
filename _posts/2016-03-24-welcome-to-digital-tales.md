@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Audiobook Production, independent book publishing, marketing for authors'
-datePublished: '2016-03-24T00:14:38.331Z'
-dateModified: '2016-03-24T00:14:34.929Z'
+datePublished: '2016-03-24T00:20:33.079Z'
+dateModified: '2016-03-24T00:20:15.844Z'
 title: Welcome to Digital Tales
 author: []
 authors: []
@@ -22,8 +22,9 @@ url: welcome-to-digital-tales/index.html
 _type: Article
 
 ---
-# Welcome to Digital Tales
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2721f6b-9ae4-4cce-845b-c3f237f9d759.jpg)
+
+# Welcome to Digital Tales
 
 Stories transport us to new worlds and help us see through the eyes of others. They inspire us to grow, to reach for a deeper understanding of how we fit into the fabric of the past, present, and future universe.
 
