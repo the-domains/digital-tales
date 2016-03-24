@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "We have relationships with a range of talented male and female narrators who perform both fiction and non-fiction. When possible, we like to record in our Austin, TX studio to capture clean, high quality signals and to free the actors from the technical work so they can focus on delivering their best, nuanced performances. But we are\_Digital Tales, and that means we can also hire the best performers from around the world who have their own high quality home recording capabilities."
-datePublished: '2016-03-24T04:29:14.134Z'
-dateModified: '2016-03-24T04:26:48.528Z'
+datePublished: '2016-03-24T04:30:21.465Z'
+dateModified: '2016-03-24T04:30:05.005Z'
 title: Our Services
 author: []
 sourcePath: _posts/2016-03-24-our-services.md
