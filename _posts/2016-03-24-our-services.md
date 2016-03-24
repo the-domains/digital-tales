@@ -5,25 +5,25 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'We have relationships with a range of talented male and female narrators who perform both fiction and non-fiction. When possible, we like to record in our Austin, TX studio to capture clean, high quality signals and to free the actors from the technical work so they can focus on delivering their best, nuanced performances. But we areDigital Tales, and that means we can also hire the best performers from around the world who have their own high quality home recording capabilities.'
-datePublished: '2016-03-24T00:22:49.205Z'
-dateModified: '2016-03-24T00:22:46.170Z'
+description: "We have relationships with a range of talented male and female narrators who perform both fiction and non-fiction. When possible, we like to record in our Austin, TX studio to capture clean, high quality signals and to free the actors from the technical work so they can focus on delivering their best, nuanced performances. But we are\_Digital Tales, and that means we can also hire the best performers from around the world who have their own high quality home recording capabilities."
+datePublished: '2016-03-24T00:38:28.101Z'
+dateModified: '2016-03-24T00:38:23.940Z'
 title: Our Services
 author: []
+sourcePath: _posts/2016-03-24-our-services.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-24-our-services.md
-published: true
 url: our-services/index.html
 _type: Article
 
 ---
 # Our Services
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ccd4f1f-6fd3-4ced-acb4-046f33c9c785.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2bd1cc89db81fd4c0cc9e7c88e97116e6a08516.jpg)
 
 ### Narration
 
