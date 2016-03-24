@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Digital Tales]]></title>
+        <description><![CDATA[Digital Tales]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Mar 2016 00:07:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to Digital Tales]]></title>
+            <description><![CDATA[<article><h1>Welcome to Digital Tales</h1><p>Stories transport us to new worlds and help us see through the eyes of others. They inspire us to grow, to reach for a deeper understanding of how we fit into the fabric of the past, present, and future universe.</p></article>]]></description>
+            <link>undefinedwelcome-to-digital-tales/index.html</link>
+            <guid isPermaLink="false">3665d3b9-fdcd-4a7b-8484-3278265942af</guid>
+            <pubDate>Thu, 24 Mar 2016 00:07:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
