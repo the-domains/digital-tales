@@ -1,7 +1,7 @@
 name: Digital Tales
 favicon: null
 layout_spectrum: 0.17225
-typography_spectrum: 0.05328
+typography_spectrum: 0.07162
 title: 'Digital Tales - Audiobook Production & Marketing'
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#000000'
     - '#ff0000'
   brandStrength: 0
-  lightness: 0.4375
+  lightness: 1
   saturation: 0.3125
   rhythmicContrast: 1
 purpose: []
