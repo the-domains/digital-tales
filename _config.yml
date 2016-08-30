@@ -1,8 +1,19 @@
+layout_spectrum: 0.8845714293420315
+typography_spectrum: 0.23999198013916612
+color:
+  brandColors:
+    - '#e47c68'
+    - '#469082'
+    - '#ffffff'
+    - '#000000'
+    - '#ff0000'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0
 name: Digital Tales
 favicon: null
-layout_spectrum: 0.17225
-typography_spectrum: 0.4428
-title: 'Digital Tales - Audiobook Production & Marketing'
+title: Digital Tales - Audiobook Production & Marketing
 cta:
   domain: null
   bucket: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#e47c68'
-    - '#469082'
-    - '#ffffff'
-    - '#000000'
-    - '#ff0000'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0
 purpose: []
