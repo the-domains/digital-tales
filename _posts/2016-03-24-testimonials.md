@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-29T02:41:59.349Z'
+datePublished: '2016-08-29T02:55:12.557Z'
 sourcePath: _posts/2016-03-24-testimonials.md
 inFeed: false
 authors: []
@@ -9,13 +9,10 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-29T02:41:57.128Z'
+dateModified: '2016-08-29T02:55:09.250Z'
 title: Testimonials
 publisher: {}
-description: >-
-  “Wonderful job. I liked the way you got enough of RFK’s voice to be
-  recognizable, but not over the top. The real challenge, however, was the
-  back-and-forth between LBJ and RFK, and you did an outstanding job.”
+description: ''
 inLanguage: null
 inNav: true
 starred: false
