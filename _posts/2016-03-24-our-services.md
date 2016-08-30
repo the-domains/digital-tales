@@ -1,23 +1,32 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-starred: false
-keywords: []
-description: "We have relationships with a range of talented male and female narrators who perform both fiction and non-fiction. When possible, we like to record in our Austin, TX studio to capture clean, high quality signals and to free the actors from the technical work so they can focus on delivering their best, nuanced performances. But we are\_Digital Tales, and that means we can also hire the best performers from around the world who have their own high quality home recording capabilities."
-datePublished: '2016-03-24T05:29:44.552Z'
-dateModified: '2016-03-24T05:29:37.123Z'
-title: Our Services
-author: []
+datePublished: '2016-08-29T02:39:54.421Z'
 sourcePath: _posts/2016-03-24-our-services.md
-published: true
+inFeed: false
 authors: []
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-08-29T02:39:54.067Z'
+title: Our Services
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+description: >-
+  We have relationships with a range of talented male and female narrators who
+  perform both fiction and non-fiction. When possible, we like to record in our
+  Austin, TX studio to capture clean, high quality signals and to free the
+  actors from the technical work so they can focus on delivering their best,
+  nuanced performances. But we are Digital Tales, and that means we can also
+  hire the best performers from around the world who have their own high quality
+  home recording capabilities.
+inLanguage: null
+inNav: true
+via: {}
+starred: false
 url: our-services/index.html
 _type: WebPage
 
@@ -29,9 +38,9 @@ _type: WebPage
 
 We have relationships with a range of talented male and female narrators who perform both fiction and non-fiction. When possible, we like to record in our Austin, TX studio to capture clean, high quality signals and to free the actors from the technical work so they can focus on delivering their best, nuanced performances. But we are **Digital Tales**, and that means we can also hire the best performers from around the world who have their own high quality home recording capabilities.
 
-### Editing
-
 Editing is where a performance is shaped and fine tuned. Fiction often requires a keen ear for consistency of character. Non-fiction work calls for clarity and purpose of intent. An editor can play with tension and increase comprehension through pacing. Mistakes and omissions are also unearthed in this phase of production. It is our intent to render the author's work as accurately as possible and delight the listener.
+
+### Editing
 
 ### Mastering
 
