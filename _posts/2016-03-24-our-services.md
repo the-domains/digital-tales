@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-29T02:41:18.191Z'
+datePublished: '2016-08-29T02:53:10.675Z'
 sourcePath: _posts/2016-03-24-our-services.md
 inFeed: false
 authors: []
@@ -9,17 +9,10 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-29T02:41:09.943Z'
+dateModified: '2016-08-29T02:53:06.029Z'
 title: Our Services
 publisher: {}
-description: >-
-  We have relationships with a range of talented male and female narrators who
-  perform both fiction and non-fiction. When possible, we like to record in our
-  Austin, TX studio to capture clean, high quality signals and to free the
-  actors from the technical work so they can focus on delivering their best,
-  nuanced performances. But we are Digital Tales, and that means we can also
-  hire the best performers from around the world who have their own high quality
-  home recording capabilities.
+description: Narration ~ Editing ~ Mastering ~ Marketing
 inLanguage: null
 inNav: true
 starred: false
@@ -28,15 +21,17 @@ _type: WebPage
 
 ---
 # Our Services
+
+Narration ~ Editing ~ Mastering ~ Marketing
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2bd1cc89db81fd4c0cc9e7c88e97116e6a08516.jpg)
 
 ### Narration
 
 We have relationships with a range of talented male and female narrators who perform both fiction and non-fiction. When possible, we like to record in our Austin, TX studio to capture clean, high quality signals and to free the actors from the technical work so they can focus on delivering their best, nuanced performances. But we are **Digital Tales**, and that means we can also hire the best performers from around the world who have their own high quality home recording capabilities.
 
-Editing is where a performance is shaped and fine tuned. Fiction often requires a keen ear for consistency of character. Non-fiction work calls for clarity and purpose of intent. An editor can play with tension and increase comprehension through pacing. Mistakes and omissions are also unearthed in this phase of production. It is our intent to render the author's work as accurately as possible and delight the listener.
-
 ### Editing
+
+Editing is where a performance is shaped and fine tuned. Fiction often requires a keen ear for consistency of character. Non-fiction work calls for clarity and purpose of intent. An editor can play with tension and increase comprehension through pacing. Mistakes and omissions are also unearthed in this phase of production. It is our intent to render the author's work as accurately as possible and delight the listener.
 
 ### Mastering
 
