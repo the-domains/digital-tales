@@ -1,23 +1,24 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-starred: false
-keywords: []
-description: '“Wonderful job. I liked the way you got enough of RFK’s voice to be recognizable, but not over the top. The real challenge, however, was the back-and-forth between LBJ and RFK, and you did an outstanding job.”'
-datePublished: '2016-03-24T04:21:41.825Z'
-dateModified: '2016-03-24T04:21:41.384Z'
-title: Testimonials
-author: []
+datePublished: '2016-08-29T02:41:59.349Z'
 sourcePath: _posts/2016-03-24-testimonials.md
-published: true
+inFeed: false
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-29T02:41:57.128Z'
+title: Testimonials
+publisher: {}
+description: >-
+  “Wonderful job. I liked the way you got enough of RFK’s voice to be
+  recognizable, but not over the top. The real challenge, however, was the
+  back-and-forth between LBJ and RFK, and you did an outstanding job.”
+inLanguage: null
+inNav: true
+starred: false
 url: testimonials/index.html
 _type: WebPage
 
@@ -29,9 +30,9 @@ _type: WebPage
 
 "Wonderful job. I liked the way you got enough of RFK's voice to be recognizable, but not over the top. The real challenge, however, was the back-and-forth between LBJ and RFK, and you did an outstanding job."
 
-### [Warren Tessler][1] - Video Producer/Director
-
 "I have hired Jason multiple times to provide voice-over narration for a number of projects. Whether it's to be the confident spokesperson for a very traditional manufacturing company, to having to play a cheesy, French arty-type for a faux cologne commercial, Jason has always come through in the most professional and personable way. Not only does Jason have the technical chops when it comes to voice performance (like volume, timing, projection), but he genuinely loves his work and he is able to bring creativity and humor to every assignment.
+
+### [Warren Tessler][1] - Video Producer/Director
 
 When you combine that with the fact that Jason has his own professional recording studio, allowing producers to save time and money, then you really do get the complete package with Jason. He can even do live, directed recordings via Skype and upload you the results immediately! I can easily and wholeheartedly recommend Jason for all of your voice performance needs and I'm sure I will be working with him again in the future."
 
