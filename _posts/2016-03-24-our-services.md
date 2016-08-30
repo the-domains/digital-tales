@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-29T02:53:10.675Z'
+datePublished: '2016-08-29T02:53:47.507Z'
 sourcePath: _posts/2016-03-24-our-services.md
 inFeed: false
 authors: []
@@ -9,10 +9,10 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-29T02:53:06.029Z'
+dateModified: '2016-08-29T02:53:44.181Z'
 title: Our Services
 publisher: {}
-description: Narration ~ Editing ~ Mastering ~ Marketing
+description: ''
 inLanguage: null
 inNav: true
 starred: false
@@ -21,8 +21,6 @@ _type: WebPage
 
 ---
 # Our Services
-
-Narration ~ Editing ~ Mastering ~ Marketing
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2bd1cc89db81fd4c0cc9e7c88e97116e6a08516.jpg)
 
 ### Narration
