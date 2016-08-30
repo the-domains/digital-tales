@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-29T02:39:54.421Z'
+datePublished: '2016-08-29T02:41:18.191Z'
 sourcePath: _posts/2016-03-24-our-services.md
 inFeed: false
 authors: []
@@ -8,13 +8,10 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-29T02:39:54.067Z'
+via: {}
+dateModified: '2016-08-29T02:41:09.943Z'
 title: Our Services
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 description: >-
   We have relationships with a range of talented male and female narrators who
   perform both fiction and non-fiction. When possible, we like to record in our
@@ -25,7 +22,6 @@ description: >-
   home recording capabilities.
 inLanguage: null
 inNav: true
-via: {}
 starred: false
 url: our-services/index.html
 _type: WebPage
