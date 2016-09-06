@@ -19,6 +19,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8978c6e3-aa1b-4bbd-be69-0d2754cf1841.png
 name: Digital Tales
 cta:
   domain: null
