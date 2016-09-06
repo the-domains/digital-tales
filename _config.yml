@@ -26,6 +26,7 @@ cta:
   domain: null
   bucket: null
   version: null
-favicon: null
-title: Audiobook Production & Marketing
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/19b45456-7fde-4dd5-a66f-cc36b1821138.png
+title: Digital Tales - Audiobook Production
 purpose: []
